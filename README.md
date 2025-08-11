@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou Derlys Roman!
 
-<!--
-**derlys-roman/derlys-roman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Depois de um tempo longe da programação, estou de volta — com mais vontade, foco e curiosidade do que nunca.  
+Este perfil é o reflexo da minha jornada de aprendizado, evolução e paixão por tecnologia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+🎓 Estudante dedicado, explorando o mundo do desenvolvimento Android com **Kotlin**.  
+📱 Apaixonado por criar soluções que conectam pessoas e facilitam o dia a dia.  
+📚 Atualmente focado em boas práticas, arquitetura de apps e projetos que me desafiem.
+
+---
+
+## 🌱 Em aprendizado
+
+- Kotlin & Android Studio  
+- Git e GitHub  
+- Clean Architecture  
+- UI/UX para apps mobile  
+- Testes automatizados
+
+---
+
+## 💬 Conecte-se comigo
+
+📍 São Paulo, Brasil  
+🔗 [LinkedIn](https://www.linkedin.com/in/derlys-purmann)  
+📧 contato profissional: derlys.purmann@gmail.com
+
+---
+
+> “Não importa a velocidade, contanto que você não pare.” – Confúcio
+
+---
+
+📌 Este repositório é especial: ele aparece no meu perfil público do GitHub.  
+Sinta-se à vontade para acompanhar minha evolução ou colaborar em projetos!
+
